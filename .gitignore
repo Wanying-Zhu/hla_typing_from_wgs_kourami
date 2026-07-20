@@ -1,0 +1,5 @@
+data/
+output/
+code/bash_slurm/*kourami_runs*.sh
+code/bash_slurm/get_cram_info_from_ica.sh
+code/bash_slurm/extract_hla_reads.cmd_run_ica.*.sh

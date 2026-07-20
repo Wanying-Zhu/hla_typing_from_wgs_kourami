@@ -1,0 +1,7 @@
+slurm_logs/
+docker/
+archived/
+singularity/
+ica_scripts_and_files/
+resource/
+bash_slurm/

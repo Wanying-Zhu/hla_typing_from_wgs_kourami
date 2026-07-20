@@ -1,0 +1,1 @@
+imgt_version=3.59; sampleid=R275959851; bam_path=/data/bams/workspace_extraction_1-5000/R275959851.unsorted.extract.bam; bash /data100t1/home/wanying/BioVU/20260305_AGD_250k_HLA_typing/code/utils/docker_run_kourami.skip_read_extraction.sh ${imgt_version} ${sampleid} ${bam_path}
